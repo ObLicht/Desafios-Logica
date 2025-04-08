@@ -26,4 +26,4 @@ int main()
     printf("O Herói de nome %s está no nível de %s\n", name, newxp);
 
     return 0;
-};
+}
