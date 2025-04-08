@@ -13,8 +13,7 @@ int main()
     printf("Qual a experiência do herói?\n");
     scanf("%f", &xp);
 
-    if (xp < 1.000)
-        newxp = classify[0];
+    if (xp < 1.000) newxp = classify[0];
     if (xp > 1.001 && xp < 2.000) newxp = classify[1];
     if (xp > 2.001 && xp < 5.000) newxp = classify[2];
     if (xp > 5.001 && xp < 7.000) newxp = classify[3];
