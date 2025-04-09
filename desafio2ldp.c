@@ -12,7 +12,7 @@ void calculoSaldo(int vitorias, int derrotas)
     if (saldo > 91 && saldo <=100) printf("O Herói tem de saldo de %d, está no nível de Lendário", saldo);
     if (saldo >= 101) printf("O Herói tem de saldo de %d, está no nível de Imortal", saldo);
 
-    
+    return saldo;
 }
 
 
