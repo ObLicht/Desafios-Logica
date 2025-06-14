@@ -1,0 +1,1 @@
+No curso de Lógica de Programação da plataforma Dio, são apresentados três desafios de código para envio, estava estudando a linguagem C na época, então decidi fazer com essa linguagem também, além da que é utilizada para o ensino do curso, que é JavaScript. 
